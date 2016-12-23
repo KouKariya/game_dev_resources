@@ -1,3 +1,6 @@
+''' hello.py
+Written by Jesse Gallarzo
+An introduction program about the pygame module. '''
 import pygame
 
 pygame.init()

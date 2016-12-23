@@ -1,3 +1,7 @@
+''' shapes.py
+# Written by Jesse Gallarzo
+# Program that '''
+
 import pygame
 
 pygame.init()
