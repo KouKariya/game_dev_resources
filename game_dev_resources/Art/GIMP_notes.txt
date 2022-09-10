@@ -1,5 +1,0 @@
-Setting up GIMP for pixel art:
-- File > New > Image Size(8x8 for 8bit art)(16*16 for 16bit art)
-- Enable "show grid"
-- image > configre grid (setup grid as 1x1)
-- Setup the pencil tool as 1x1(size = 1.00) 
